@@ -1,7 +1,5 @@
 # AI Application Security Misconfiguration
 
-## Overview of the Vulnerability
-
 Misconfigurations can occur in Artificial Intelligence (AI) applications, including but not limited to machine learning models, algorithms, and inference systems. These misconfigurations can allow an attacker to compromise confidentiality, integrity, or availability of data and services.
 
 ## Business Impact
@@ -22,5 +20,5 @@ This vulnerability can lead to reputational and financial damage of the company 
 ## Proof of Concept (PoC)
 
 The screenshot(s) below demonstrate(s) the vulnerability:
->
+
 > {{screenshot}}
