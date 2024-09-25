@@ -5,6 +5,7 @@
   "whitespace": false,
   "line_length": false,
   "fenced-code-language": false,
+  "MD041": false,
   "no-emphasis-as-heading": false,
   "blanks-around-headings": false
 }
