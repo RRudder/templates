@@ -18,5 +18,5 @@ This vulnerability can lead to reputational and financial damage of the company 
 ## Proof of Concept (PoC)
 
 The screenshot(s) below demonstrate(s) the vulnerability:
->
+
 > {{screenshot}}
